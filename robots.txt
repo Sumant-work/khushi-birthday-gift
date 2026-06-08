@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+# This public GitHub Pages gift is intended to be shared only by direct link.
